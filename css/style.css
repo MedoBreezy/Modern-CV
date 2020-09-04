@@ -757,4 +757,9 @@ section.work .wrapper .portfolio .portfolio_wrapper {
 section.contact .contact_wrapper .right .form_group {
   grid-template-columns: 1fr;
 }
+  
+  @media (max-width:414px) {
+section.profile {
+  align-items: center;
+}
 }
