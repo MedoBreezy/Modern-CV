@@ -762,4 +762,9 @@ section.contact .contact_wrapper .right .form_group {
 section.profile {
   align-items: center;
 }
+    
+  @media (max-width:800px) {
+section.profile {
+  align-items: center;
+}
 }
